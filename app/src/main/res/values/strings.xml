@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HomeWork2_5</string>
+    <string name="FirstButton">Выбор фотографий</string>
+    <string name="фы">саалам</string>
+    <string name="ok">Выбор фотографий</string>
+    <string name="select">select</string>
+    <string name="lets_go">lets\'go</string>
+    <string name="selected">selected</string>
+</resources>
